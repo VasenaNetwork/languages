@@ -1,0 +1,16 @@
+{
+    "name": "German",
+    "localeCode": "de_DE",
+    "emoji": "",
+    "prefix": "",
+    "contributors": ["vNoaaah"],
+    "values": {
+        "LanguageSystem.change": "{PREFIX}&7Deine Sprache wurde auf Deutsch geändert",
+        "LanguageSystem.values": "{PREFIX}&7DE&8, &7EN&8, &7HR",
+        "LanguageSystem.ui.title": "§9§lSprache ändern §r§7- &fDeutsch",
+        "LanguageSystem.ui.content": "&6&l{NAME}\n&r§8» §e{VALUES}",
+        "LanguageSystem.ui.button": "&7English",
+
+        "MOTD.Command.Message": "{PREFIX}&7Die Server MOTD ist &f&l{MOTD}"
+    }
+}
