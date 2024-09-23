@@ -1,0 +1,16 @@
+{
+    "name": "English",
+    "localeCode": "en_US",
+    "emoji": "",
+    "prefix": "",
+    "contributors": ["vNoaaah"],
+    "values": {
+        "LanguageSystem.change": "{PREFIX}&7Your Language has changed to English",
+        "LanguageSystem.values": "{PREFIX}&7DE&8, &7EN&8, &7HR",
+        "LanguageSystem.ui.title": "§9§lChange Language §r§7- §fEnglish",
+        "LanguageSystem.ui.content": "&6&l{NAME}\n&r§8» §e{VALUES}",
+        "LanguageSystem.ui.button": "&7English",
+
+        "MOTD.Command.Message": "{PREFIX}&7The Server MOTD is &f&l{MOTD}"
+    }
+}
